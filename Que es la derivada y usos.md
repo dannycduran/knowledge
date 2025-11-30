@@ -13,4 +13,4 @@ Podemos usar el calculo diferencial para la optimizacion es el proceso de encont
 
 
 fuentes:
-No bullshit guide to math and physics
+No bullshit guide to math and physics book

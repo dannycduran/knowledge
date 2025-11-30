@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Que es la integral?.md",
+                "file": "Que es la derivada y usos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Que es la integral?"
+              "title": "Outline of Que es la derivada y usos"
             }
           },
           {
@@ -201,11 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468162edf7ff8049",
+  "active": "799cd33d83395af2",
   "lastOpenFiles": [
+    "Que es la integral?.md",
     "Pasted image 20251128122710.png",
     "Que es la derivada y usos.md",
-    "Que es la integral?.md",
     "Database Indexes.md",
     "assets/Untitled.base",
     "1. Definicion.md",
